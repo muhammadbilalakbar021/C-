@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Project/Lab11/prob03/department_budget.hpp
+string
+-
+
+E:/Project/Lab11/prob03/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+iostream
+-
+department_budget.hpp
+E:/Project/Lab11/prob03/department_budget.hpp
+
