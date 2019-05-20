@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Project/lab13/prob03/main.cpp
+weapons.hpp
+E:/Project/lab13/prob03/weapons.hpp
+random
+-
+iomanip
+-
+iostream
+-
+string
+-
+
+E:/Project/lab13/prob03/weapons.cpp
+weapons.hpp
+E:/Project/lab13/prob03/weapons.hpp
+
+E:/Project/lab13/prob03/weapons.hpp
+iostream
+-
+cstdlib
+-
+time.h
+-
+
