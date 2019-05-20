@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Project/lab13/prob02/super_enemy.cpp
+super_enemy.hpp
+E:/Project/lab13/prob02/super_enemy.hpp
+iostream
+-
+
+E:/Project/lab13/prob02/super_enemy.hpp
+
