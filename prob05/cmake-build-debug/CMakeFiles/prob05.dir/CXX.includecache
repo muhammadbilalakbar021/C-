@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Project/Lab11/prob05/game_store.cpp
+game_store.hpp
+E:/Project/Lab11/prob05/game_store.hpp
+iostream
+-
+
+E:/Project/Lab11/prob05/game_store.hpp
+string
+-
+iostream
+-
+
+E:/Project/Lab11/prob05/main.cpp
+iostream
+-
+game_store.hpp
+E:/Project/Lab11/prob05/game_store.hpp
+

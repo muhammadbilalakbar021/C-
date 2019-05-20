@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Project/lab13/prob01/main.cpp
+shapes.hpp
+E:/Project/lab13/prob01/shapes.hpp
+iomanip
+-
+iostream
+-
+
+E:/Project/lab13/prob01/shapes.hpp
+string
+-
+iostream
+-
+
