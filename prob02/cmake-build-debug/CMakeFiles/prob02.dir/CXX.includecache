@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Project/Lab11/prob02/candy_shop.cpp
+candy_shop.hpp
+E:/Project/Lab11/prob02/candy_shop.hpp
+
+E:/Project/Lab11/prob02/candy_shop.hpp
+iomanip
+-
+iostream
+-
+string
+-
+
+E:/Project/Lab11/prob02/main.cpp
+iostream
+-
+candy_shop.hpp
+E:/Project/Lab11/prob02/candy_shop.hpp
+

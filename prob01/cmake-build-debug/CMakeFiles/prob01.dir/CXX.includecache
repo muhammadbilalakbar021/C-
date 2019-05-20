@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Project/Lab11/prob01/Pet.hpp
+string
+-
+breed.h
+E:/Project/Lab11/prob01/breed.h
+
+E:/Project/Lab11/prob01/breed.h
+string
+-
+
+E:/Project/Lab11/prob01/main.cpp
+iostream
+-
+iomanip
+-
+breed.h
+E:/Project/Lab11/prob01/breed.h
+Pet.hpp
+E:/Project/Lab11/prob01/Pet.hpp
+
+E:/Project/Lab11/prob01/pet.cpp
+iostream
+-
+iomanip
+-
+Pet.hpp
+E:/Project/Lab11/prob01/Pet.hpp
+breed.h
+E:/Project/Lab11/prob01/breed.h
+
